@@ -19,4 +19,4 @@ Bu proje, Türkiye'nin tüm illerini ve her ilin ilçelerini içeren bir JSON do
 Bu verileri kullanmak için sadece JSON dosyasını indirebilir veya projeye ekleyebilirsiniz. Aşağıdaki komutu kullanarak JSON dosyasını indirin:
 
 ```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone https://github.com/osmn-byhn/turkey-cities-districts
